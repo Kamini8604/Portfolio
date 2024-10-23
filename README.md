@@ -11,7 +11,7 @@ https://kamini8604.github.io/Portfolio/
 ## ⚙️ Installation
 If you want to run this project locally:
 1. Clone this Repository:
-   git clone https://github.com/kamini8604/Portfoli.git
+   git clone https://github.com/Kamini8604/Portfolio.git
 2. Open the index.html file in your browser to view the website
 
 ## 🙌 Contributions
