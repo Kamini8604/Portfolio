@@ -130,13 +130,6 @@ body {
     background-color: transparent;
 }
 
-@media (max-width: 400px) {
-    .rating-content {
-        flex-direction: column; /* Stack boxes vertically */
-        align-items: center; /* Center-align boxes */
-    }
-}
-
 .highlighted {
     background-color: #7456FF;
     border: none;
